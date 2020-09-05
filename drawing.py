@@ -1,4 +1,4 @@
-#Autor >> AlfonzMx
+#Autor >> AlfonzCS
 #Creado en Python3
 import cv2, sys, random, time
 from time import sleep
